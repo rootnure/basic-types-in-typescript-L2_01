@@ -1,1 +1,1 @@
-Module 1: Explore Basic Types of Typescript
+# Module 1: Explore Basic Types of Typescript
