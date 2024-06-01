@@ -18,3 +18,5 @@
     - Parameter and Return Type with Default Value in Function
     - Type in Method {Function as a property of an object}
     - Type for array method
+
+- Spread and Rest Operator
