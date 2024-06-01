@@ -11,3 +11,10 @@
     - Optional Type
     - Literal Type
     - Access Modifier
+
+- Function in Typescript
+    - Parameter and Return Type in Normal Function
+    - Parameter and Return Type in Arrow Function
+    - Parameter and Return Type with Default Value in Function
+    - Type in Method {Function as a property of an object}
+    - Type for array method
