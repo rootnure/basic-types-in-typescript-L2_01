@@ -6,3 +6,8 @@
     - Boolean
     - Array
     - Tuple {Special Types of Array (Multiple types of data in an array)}
+
+- Reference Type --> Object
+    - Optional Type
+    - Literal Type
+    - Access Modifier
