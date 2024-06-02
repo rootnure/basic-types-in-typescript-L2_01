@@ -8,7 +8,7 @@
       console.log("There is nothing to search")
     }
   }
-  searchName(null);
+  // searchName(null);
 
   // unknown types (typeof)
   const getSpeedInMeterPerSecond = (value: unknown) => {
@@ -25,10 +25,19 @@
     }
   }
 
-  getSpeedInMeterPerSecond(55);
-  getSpeedInMeterPerSecond(`55 kmH^-1`);
-  getSpeedInMeterPerSecond(false);
+  // getSpeedInMeterPerSecond(55);
+  // getSpeedInMeterPerSecond(`55 kmH^-1`);
+  // getSpeedInMeterPerSecond(false);
 
+
+
+  // never type
+
+  const throwError = (msg: string): never => {
+    throw new Error(msg);
+  }
+
+  throwError('mushkil se error ho gaya');
 
 
   //
