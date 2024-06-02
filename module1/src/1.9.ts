@@ -46,6 +46,8 @@
 
   // Instead of declaring type multiple times, declare a type and use that type multiple times
 
+  /* Type Alias for object */
+
   type Student = {
     name: string;
     age: number;
@@ -69,7 +71,15 @@
     address: 'Dinajpur, BD',
   }
 
+  /* Type Alias for primitive data */
 
+  type UserName = string;
+  type Age = number;
+  type IsAdmin = boolean;
+
+  const userName: UserName = 'Nur';
+  const age: Age = 55;
+  const isAdmin: IsAdmin = false;
 
 
 
