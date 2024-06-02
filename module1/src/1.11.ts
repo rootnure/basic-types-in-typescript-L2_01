@@ -10,7 +10,7 @@
   }
 
   // ternary operator
-  const isAdult = age >= 18 ? true : false;
+  const isAdult: boolean = age >= 18 ? true : false;
   console.log({ isAdult: isAdult });
 
 
