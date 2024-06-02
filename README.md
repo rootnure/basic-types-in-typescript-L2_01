@@ -20,3 +20,7 @@
     - Type for array method
 
 - Spread and Rest Operator
+
+- Destructing
+    - Object Destructuring
+    - Array Destructuring
